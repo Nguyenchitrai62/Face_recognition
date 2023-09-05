@@ -9,3 +9,11 @@ Lấy ảnh khuôn mặt mới thành công
 
 <img src="https://github.com/Nguyenchitrai62/Face_recognition/blob/main/image/anh2.png" alt="anh2" width="600">
 
+B2: Run file train.py để huấn luyện mô hình.
+
+<img src="https://github.com/Nguyenchitrai62/Face_recognition/blob/main/image/anh3.png" alt="anh3" width="600">
+
+B3: Run file test_camera.py đưa khuôn mặt vào để nhận dạng.
+
+<img src="https://github.com/Nguyenchitrai62/Face_recognition/blob/main/image/anh4.png" alt="anh4" width="600">
+
