@@ -1,0 +1,20 @@
+Cách 1: không sử dụng camera
+
+B1: Run file xu_li.py để tiền xử lí ảnh. các ảnh được lưu trong dataset với tên thư mục là tên nhãn.
+B2: Run file train.py để huấn luyện mô hình.
+B3: Chọn đường dẫn ảnh trong thư mục và run file test_anh.py để xem kết quả.
+
+Cách 2: sử dung camera
+
+B1: Run file input.py sau đó nhập tên nhãn và bấm xác nhận để bắt đầu. 
+    Khi của sổ hiện lên bấm "b" để bắt đầu lấy ảnh.(lưu ý tắt bộ gõ tiếng việt)
+B2: Run file train.py để huấn luyện mô hình.
+B3: Run file test_camera.py đưa khuôn mặt vào để nhận dạng.
+
+cài các thư viện theo lệnh sau
+
+pip install opencv-python
+pip install numpy
+pip install tensorflow
+pip install python-tk
+
